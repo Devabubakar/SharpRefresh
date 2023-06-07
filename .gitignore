@@ -475,3 +475,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# VS Generated Directions
+bin/*
+bin/Debug/*
+Elements/ClassDiagram1.cd
+.vs/*
+obj/*
+/ConsoleUI/bin/Debug
+/ConsoleUI/obj/Debug
+*.cd

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    internal class Calculate
+    public class Calculate
     {
+
+        public static double Add ( double x, double y)
+        {
+            return x + y;
+        }
     }
 }
